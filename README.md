@@ -1,2 +1,2 @@
-# JOJO-MD
-Jojo Bot Multi Device
+# YUI-CHAN
+YUI-CHAN Multi Device
